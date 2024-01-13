@@ -1,6 +1,6 @@
-# Hello 👋
+# Hello there, thanks for stopping by 👋
 
-## 🚀 Some interesting projects
+## Some interesting projects
 
 - [minishell](https://github.com/AxelBadam/minishell) - A simplified shell program inspired by bash.
 - [Phisophers](https://github.com/AxelBadam/Philosophers) - My take on the dining philosophers problem.
