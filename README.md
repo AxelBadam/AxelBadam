@@ -1,4 +1,4 @@
-# Hello there, thanks for stopping by 👋
+# Hello there 👋
 
 ## Some interesting projects
 
