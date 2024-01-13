@@ -1,5 +1,7 @@
 # Hello there 👋
 
+welcome, welcome...
+
 ## Some interesting projects
 
 - [minishell](https://github.com/AxelBadam/minishell) - A simplified shell program inspired by bash.
