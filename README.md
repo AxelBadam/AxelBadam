@@ -1,5 +1,10 @@
 # Hello there 👋
 
+-Studying at Hive Helsinki (Software Development
+-Unix CLI, C, C++, Git
+-Interested in Cloud Engineering
+-Ergonomics enthusiast :)
+
 ## Some interesting projects
 
 - [minishell](https://github.com/AxelBadam/minishell) - A simplified shell program inspired by bash in C.
