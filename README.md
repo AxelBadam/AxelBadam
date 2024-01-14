@@ -1,9 +1,9 @@
 # Hello there 👋
 
--Studying at Hive Helsinki (Software Development
--Unix CLI, C, C++, Git
--Interested in Cloud Engineering
--Ergonomics enthusiast :)
+- Studying at Hive Helsinki (Software Development
+- Unix CLI, C, C++, Git
+- Interested in Cloud Engineering
+- Ergonomics enthusiast :)
 
 ## Some interesting projects
 
