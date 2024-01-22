@@ -4,6 +4,7 @@
 - Unix CLI, C, C++, Git
 - Interested in Cloud Engineering - studying for AZ-900 certification
 - Ergonomics enthusiast :)
+- I’m currently working on [ft_irc](https://github.com/AxelBadam/ft_ircW)
 
 ## Some interesting projects
 
