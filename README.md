@@ -2,7 +2,7 @@
 
 - Studying at Hive Helsinki (Software Development)
 - Unix CLI, C, C++, Git, Docker
-- Interested in Cloud Engineering - studying for AZ-900 certification
+- Interested in Cloud Engineering and Cybersecurity.
 - Ergonomics enthusiast :)
 
 ## Some interesting projects
