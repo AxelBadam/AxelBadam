@@ -2,7 +2,7 @@
 
 - Studying at Hive Helsinki (Software Development)
 - Unix CLI, C, C++, Git, Docker
-- Interested in Cloud Engineering and Cybersecurity.
+- Interested in Cybersecurity and cloud engineering.
 - Ergonomics enthusiast :)
 
 ## Some interesting projects
