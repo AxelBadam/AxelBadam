@@ -5,7 +5,7 @@
 - Interested in Cybersecurity and cloud engineering as well as Web dev.
 - Ergonomics enthusiast :)
 
-## Some interesting projects I´ve made
+## Some interesting projects I've made
 - [ft_transcendence](https://github.com/TTalvenH/ft_transcendence) - A single-page application where the classic game of Pong is reimagined. Dive into the nostalgia of arcade gaming with modern twists and features. Python, Javascript & HTML.
 - [ft_irc](https://github.com/AxelBadam/ft_ircW) - An IRC server in C++.
 - [Inception](https://github.com/AxelBadam/Inception) - Docker infrastructre for Wordpress site.
