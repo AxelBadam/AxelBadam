@@ -1,8 +1,7 @@
 # Hello there 👋
 
-- Student at Hive Helsinki (Software Development)
-- Unix CLI, C, C++, Git, Docker, Javascript, Python, HTML
-- Interested in Cybersecurity and cloud engineering as well as Web dev.
+- Musician and Software Developer student (Hive Helsinki)
+- Unix CLI, C, C++, Git, Docker, Javascript, Python, HTML, Logic X, Sibelius
 - Ergonomics enthusiast :)
 
 ## Some interesting projects I've made
