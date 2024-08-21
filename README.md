@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- Software Developer student (Hive Helsinki) and Musician
+- Software Developer (Hive Helsinki) and Musician
 - Unix CLI, C, C++, Git, Docker, Javascript, Python, HTML, Logic X, Sibelius
 - Ergonomics enthusiast :)
 
