@@ -5,7 +5,7 @@
 - Ergonomics enthusiast :)
 
 ## Some interesting projects I've made
-- [ft_transcendence](https://github.com/TTalvenH/ft_transcendence) - A single-page application where the classic game of Pong is reimagined. Dive into the nostalgia of arcade gaming with modern twists and features. Python, Javascript & HTML.
+- [ft_transcendence]([https://github.com/AxelBadam/ft_transcendence]) - A single-page application where the classic game of Pong is reimagined. Dive into the nostalgia of arcade gaming with modern twists and features. Python, Javascript & HTML.
 - [ft_irc](https://github.com/AxelBadam/ft_ircW) - An IRC server in C++.
 - [Inception](https://github.com/AxelBadam/Inception) - Docker infrastructre for Wordpress site.
 - [minishell](https://github.com/AxelBadam/minishell) - A simplified shell program inspired by bash in C.
