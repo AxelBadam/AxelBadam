@@ -2,7 +2,6 @@
 
 - Software Developer (Hive Helsinki) and Musician
 - Unix CLI, C, C++, Git, Docker, Javascript, Python, HTML, Logic X, Sibelius
-- Ergonomics enthusiast :)
 
 ## Some interesting projects I've made
 - [ft_transcendence](https://github.com/AxelBadam/ft_transcendence) - A single-page application where the classic game of Pong is reimagined. Dive into the nostalgia of arcade gaming with modern twists and features. Python, Javascript & HTML.
