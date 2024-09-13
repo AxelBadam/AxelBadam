@@ -13,5 +13,3 @@
 - [MidiHero](https://github.com/AxelBadam/MidiHero) - A small hobby project - GuitarHero like game in C++ which works with midifiles.
 
 - Feel free to check out my band as well @ [Al Fama](https://open.spotify.com/artist/3LfpfHFxoLRNQkiHnVVp9M?si=ow9zBc1fQY6lIzvyahxoUw)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelbadam&show_icons=true&locale=en&layout=compact" alt="axelbadam" /></p>
