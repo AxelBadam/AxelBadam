@@ -7,6 +7,7 @@
 - [ft_transcendence](https://github.com/AxelBadam/ft_transcendence) - A single-page application where the classic game of Pong is reimagined. Dive into the nostalgia of arcade gaming with modern twists and features. Python, Javascript & HTML.
 - [ft_irc](https://github.com/AxelBadam/ft_ircW) - An IRC server in C++.
 - [Inception](https://github.com/AxelBadam/Inception) - Docker infrastructre for Wordpress site.
+- [azureApp](https://github.com/AxelBadam/azureApp) - Web app built using Azure services
 - [minishell](https://github.com/AxelBadam/minishell) - A simplified shell program inspired by bash in C.
 - [Phisophers](https://github.com/AxelBadam/Philosophers) - My take on the dining philosophers problem.
 - [Fdf](https://github.com/AxelBadam/FdF) - Analyze maps to create 3D wirefram models.
