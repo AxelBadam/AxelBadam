@@ -1,7 +1,4 @@
-# Hello there 👋
-
-- Software Developer (Hive Helsinki) and Musician
-- C, C++, Git, Docker, Javascript, Python, HTML, Azure, Logic X, Sibelius
+# Hello there 
 
 ## Interesting projects I've made
 - [ft_transcendence](https://github.com/AxelBadam/ft_transcendence) - A single-page application where the classic game of Pong is reimagined. Dive into the nostalgia of arcade gaming with modern twists and features. Python, Javascript & HTML.
